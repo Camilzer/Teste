@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2FA9F0C6E4571A4BE76FF5ABE478655DEEB7C176",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2FA9F0C6E4571A4BE76FF5ABE478655DEEB7C176" : 9223372036854775807,
+    "7C99ED53D2BFD311F15B0F7928009D351B6A9378" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "92B7158D-48A9-4247-80EF-D8F47465D4EF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2FA9F0C6E4571A4BE76FF5ABE478655DEEB7C176" : "Archive-2\/",
+    "7C99ED53D2BFD311F15B0F7928009D351B6A9378" : "Archive-2\/RestaurantsApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RestaurantsApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RestaurantsApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Camilzer\/RestoAppV2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FA9F0C6E4571A4BE76FF5ABE478655DEEB7C176"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Camilzer\/RestoApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C99ED53D2BFD311F15B0F7928009D351B6A9378"
+    }
+  ]
+}
